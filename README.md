@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucasparizotto)](https://twitter.com/lucasparizotto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasleoparizotto)](https://www.linkedin.com/in/lucasleoparizotto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasleoparizotto)](https://www.linkedin.com/in/llpcs)
